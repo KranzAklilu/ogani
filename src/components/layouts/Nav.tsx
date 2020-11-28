@@ -1,7 +1,6 @@
 import React, { useRef } from "react";
 
 import {
-  Container,
   Box,
   Image,
   IconButton,
